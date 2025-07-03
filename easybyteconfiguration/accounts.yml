@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: "accounts"
+build:
+  version: "01"
+accounts:
+  message: "Welcome to EazyBank accounts related default APIs "
+  contactDetails:
+    name: "Smitha Ray - prod Lead"
+    email: "smitha@eazybank.com"
+  onCallSupport:
+    - (666) 265-3765
+    - (666) 734-8371
